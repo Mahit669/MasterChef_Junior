@@ -12,7 +12,7 @@
 
 ## Recipe of grilled cheese bread
 
-<img src="https://thecookful.com/wp-content/uploads/2016/03/How-to-grilled-cheese-DSC_5254-portrait-680.jpg" width=30% height=10%>
+![GitHub Logo](https://thecookful.com/wp-content/uploads/2016/03/How-to-grilled-cheese-DSC_5254-portrait-680.jpg)
 
 * Have all the ingredients in front of you.
 * Spread the ghee on both slices of bread( only 1 side)
