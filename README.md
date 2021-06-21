@@ -1,6 +1,6 @@
-This recipe is for you to make grilled cheese. 
+# Grilled Cheese Bread
 
-# Ingredients
+## Ingredients
 
 * 2 slices of bread
 * 1 non-stick pan
@@ -10,7 +10,7 @@ This recipe is for you to make grilled cheese.
 
 
 
-# Recipe of grilled cheese bread
+## Recipe of grilled cheese bread
 
 <img src="https://thecookful.com/wp-content/uploads/2016/03/How-to-grilled-cheese-DSC_5254-portrait-680.jpg" width=30% height=10%>
 
